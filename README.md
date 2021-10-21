@@ -3,7 +3,7 @@
 ### 🖌️ Aplicação
 
 <div align="center">
-  ![imagem](https://github.com/Nosferatuvjr/NLW-Heat-React/blob/main/src/assets/print1.png?raw=true)
+  ![imagem](print1.png)
 </div>
 
 <h2>Detalhes</h2>
