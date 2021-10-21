@@ -3,7 +3,7 @@
 ### 🖌️ Aplicação
 
 <div align="center">
-  ![imagem](./print1.png)
+  ![imagem](https://github.com/Nosferatuvjr/NLW-Heat-React/blob/main/print1.png)
 </div>
 
 <h2>Detalhes</h2>
@@ -49,5 +49,5 @@ A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 ### Obrigado [Rocketseat](https://www.rocketseat.com.br/) e vamos buscar ser 🚀 #Protagonistas
 
 <div align="center">
-  ![Imagem2](https://github.com/Nosferatuvjr/NLW-Heat-React/blob/main/src/assets/print2.png)
+  ![Imagem2](https://github.com/Nosferatuvjr/NLW-Heat-React/blob/main/print2.png)
 </div>
