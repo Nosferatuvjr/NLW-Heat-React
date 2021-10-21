@@ -2,7 +2,9 @@
 
 ### 🖌️ Aplicação
 
-(src/assets/print1.png)
+<div align="center">
+  ![Imagem1](src/assets/print1.png)
+</div>
 
 <h2>Detalhes</h2>
 
@@ -46,4 +48,6 @@ A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 
 ### Obrigado [Rocketseat](https://www.rocketseat.com.br/) e vamos buscar ser 🚀 #Protagonistas
 
-(src/assets/print2.png)
+<div align="center">
+  ![Imagem2](src/assets/print2.png)
+</div>
