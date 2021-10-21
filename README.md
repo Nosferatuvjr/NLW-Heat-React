@@ -3,7 +3,7 @@
 ### 🖌️ Aplicação
 
 <div align="center">
-  ![Imagem1](https://scontent.fpll6-1.fna.fbcdn.net/v/t1.6435-9/247351111_3005500443042293_3419544979062249645_n.jpg?_nc_cat=105&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=xw3vFJQJVVQAX8PoP2i&tn=uUyU5xVAJ5m7axbM&_nc_ht=scontent.fpll6-1.fna&oh=8031cf79b4215a1c1cc75678c21c9f0a&oe=61975BBE)
+  ![imagem](https://github.com/Nosferatuvjr/NLW-Heat-React/blob/main/src/assets/print1.png?raw=true)
 </div>
 
 <h2>Detalhes</h2>
