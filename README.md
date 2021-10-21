@@ -3,7 +3,7 @@
 ### 🖌️ Aplicação
 
 <div align="center">
-  ![Imagem1](src/assets/print1.png?raw=true)
+  ![Imagem1](/src/assets/print1.png?raw=true)
 </div>
 
 <h2>Detalhes</h2>
