@@ -3,7 +3,7 @@
 ### 🖌️ Aplicação
 
 <div align="center">
-  ![imagem](print1.png)
+  ![imagem](./print1.png)
 </div>
 
 <h2>Detalhes</h2>
